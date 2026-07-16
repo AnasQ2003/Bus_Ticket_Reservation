@@ -7,7 +7,7 @@
 ![Bahria University](https://img.shields.io/badge/Bahria_University-ICT_Lab-003087?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/1st_Semester-Final_Project-success?style=for-the-badge)
 
-A fully functional **Bus Ticket Reservation & Management System** built using **Microsoft Access** and **VBA (Visual Basic for Applications)**, developed as the 1st Semester ICT Lab Final Project at Bahria University. The system provides a complete end-to-end solution for managing bus registrations, passenger bookings, ticket pricing, and automated report generation — all through a polished, interactive GUI.
+A fully functional **Bus Ticket Reservation & Management System** built using **Microsoft Access** and **VBA (Visual Basic for Applications)**, developed as a Project. The system provides a complete end-to-end solution for managing bus registrations, passenger bookings, ticket pricing, and automated report generation — all through a polished, interactive GUI.
 
 </div>
 
@@ -167,12 +167,49 @@ The system is built on a Microsoft Access (`.accdb`) database with the following
 | **University** | Bahria University, Pakistan |
 | **Course** | Information & Communication Technology (ICT) |
 | **Semester** | 1st Semester |
-| **Project Type** | ICT Lab Final Project |
+| **Project Type** | ICT Final Project |
 | **Key Concepts** | Database design, VBA, Forms, Reports, UI/UX |
+
+---
+
+## 📄 License
+
+```
+MIT License
+
+Copyright (c) Bus Ticket Reservation System ---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
 
 ---
 
 ## 👨‍💻 Author
 
-**Anas Qayyum**
-- GitHub: [@AnasQ2003](https://github.com/AnasQ2003)
+**Anas Ahmed Qureshi.** — [@AnasQ2003](https://github.com/AnasQ2003)
+
+---
+
+<div align="center">
+  <p>Built with ❤️ by <strong>Anas</strong></p>
+  
+ <div align="center">
+
+Made with 🔥 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+</div>
+
