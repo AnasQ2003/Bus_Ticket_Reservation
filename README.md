@@ -162,17 +162,6 @@ The system is built on a Microsoft Access (`.accdb`) database with the following
    - **Book Ticket** → Fill in passenger details and save
    - **Register Bus** → Add new buses to the fleet
 
----
-
-## 📚 Course Context
-
-| Detail | Info |
-|---|---|
-| **University** | Bahria University, Pakistan |
-| **Course** | Information & Communication Technology (ICT) |
-| **Semester** | 1st Semester |
-| **Project Type** | ICT Final Project |
-| **Key Concepts** | Database design, VBA, Forms, Reports, UI/UX |
 
 ---
 
