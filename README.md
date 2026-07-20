@@ -15,6 +15,8 @@ A fully functional **Bus Ticket Reservation & Management System** built using **
 
 ## 📸 Screenshots
 
+<div align="center">
+  
 <table>
   <tr>
     <td align="center"><img src="screenshots/login.png" width="320"/><br/><b>🔐 Login Screen</b></td>
@@ -37,6 +39,8 @@ A fully functional **Bus Ticket Reservation & Management System** built using **
     <td align="center"><img src="screenshots/vba_login_code.png" width="320"/><br/><b>💻 VBA — Login Authentication</b></td>
   </tr>
 </table>
+
+</div>
 
 ---
 
