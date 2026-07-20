@@ -4,8 +4,7 @@
 
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Bahria University](https://img.shields.io/badge/Bahria_University-ICT_Lab-003087?style=for-the-badge)
-![Semester](https://img.shields.io/badge/1st_Semester-Final_Project-success?style=for-the-badge)
+
 
 A fully functional **Bus Ticket Reservation & Management System** built using **Microsoft Access** and **VBA (Visual Basic for Applications)**, developed as a Project. The system provides a complete end-to-end solution for managing bus registrations, passenger bookings, ticket pricing, and automated report generation — all through a polished, interactive GUI.
 
