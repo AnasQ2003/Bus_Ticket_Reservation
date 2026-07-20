@@ -1,6 +1,6 @@
-# 🚌 Bus Ticket Reservation System
-
 <div align="center">
+
+# 🚌 Bus Ticket Reservation System
 
 ![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
